@@ -1,1 +1,1 @@
-# magica3
+# magica
